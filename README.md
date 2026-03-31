@@ -217,7 +217,7 @@ An embedded automation system connecting environmental sensors (temperature, mot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=tanvir14ahmed&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff" height="170" />
 
 <br/>
